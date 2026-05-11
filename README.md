@@ -76,7 +76,7 @@ Search by title/content
 Filter by category
 Pagination (next/previous pages)
 
-#####  Database Tables / Collections
+##### Database Tables / Collections
 Users
 name
 email
@@ -99,3 +99,8 @@ Reports
 postId
 reporterId
 reason
+###### Team members 
+Gracee001-M
+wachira-54
+maureenmuchoki-hub
+chesemchanel
