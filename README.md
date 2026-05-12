@@ -9,7 +9,7 @@ Users can:
 - Filter by category (Jobs, Events, Alerts, General)
 - Comment or contact poster
 - Report fake posts
-- 
+  
 **Admin can**:
 - Approve posts before they appear
 - Delete spam posts
