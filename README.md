@@ -9,6 +9,7 @@ Users can:
 - Filter by category (Jobs, Events, Alerts, General)
 - Comment or contact poster
 - Report fake posts
+- 
 **Admin can**:
 - Approve posts before they appear
 - Delete spam posts
@@ -27,6 +28,8 @@ Users can:
   3. Chanel Wangari(chesemchanel)
   4. Stephen Mwai(stephen-mwai-dev)
   5. Letema Kutto (Letema)
+  6. Erick Njeru(ericknjeru708-sketch)
+  7. Joel Wachira(wachira-54)
 
 #### Team Division (10 People)
 ####  Frontend Team (5 Members)
@@ -44,18 +47,18 @@ Users can:
 - Upload image option
 - Category selector
 
-*Frontend 4: Authentication Pages*
+*Frontend 4: Authentication Pages*(Letema Kutto)
 - Login page
 - Register page
 - User profile UI
 
-*Frontend 5: Search + Filters*
+*Frontend 5: Search + Filters*(Stephen Mwai)
 - Search bar
 - Category filter dropdown
 - Sort by latest/oldest
 
 #### Backend Team (5 Members)
-*Backend 1: Authentication System*
+*Backend 1: Authentication System*(Grace Macharia)
 - Register/login API
 - JWT authentication
 - Password hashing
@@ -72,7 +75,7 @@ Users can:
 - Comment model
 - Report model
 
-*Backend 4: Admin System*
+*Backend 4: Admin System*(Chanel Wangari)
 - Approve posts
 - Reject posts
 - Delete spam posts
