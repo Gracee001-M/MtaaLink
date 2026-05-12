@@ -23,8 +23,10 @@ Users can:
 - Admin dashboard
   ### Team members
   1. Grace Macharia(Gracee001-M)
-  2. K
-  3. 
+  2. Maureen Muchoki(maureenmuchoki-hub)
+  3. Chanel Wangari(chesemchanel)
+  4. Stephen Mwai(stephen-mwai-dev)
+  5. Letema Kutto (Letema)
 
 #### Team Division (10 People)
 ####  Frontend Team (5 Members)
@@ -32,7 +34,7 @@ Users can:
 - Navbar, footer, homepage layout
 - Responsive design
 
-*Frontend 2: Posts Display*
+*Frontend 2: Posts Display*(Erick Njeru)
 - Posts cards
 - Post details page
 - Comment section UI
@@ -64,7 +66,7 @@ Users can:
 - Delete post
 - View posts
 
-*Backend 3: Database & Models*
+*Backend 3: Database & Models*(Chanel Wangari)
 - User model
 - Post model
 - Comment model
@@ -76,7 +78,7 @@ Users can:
 - Delete spam posts
 - Ban user logic
 
-*Backend 5: Search + Filters API*
+*Backend 5: Search + Filters API*(Maureen Muchoki)
 - Search by title/content
 - Filter by category
 - Pagination (next/previous pages)
