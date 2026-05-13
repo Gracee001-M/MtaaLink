@@ -111,3 +111,6 @@ Users can:
 - reason
 maureenmuchoki-hub
 chesemchanel
+
+## ✨ Contribution
+This project is open for improvements and contributions.
